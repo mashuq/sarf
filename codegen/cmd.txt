@@ -1,0 +1,1 @@
+java -classpath jooq-3.14.11.jar:jooq-meta-3.14.11.jar:jooq-codegen-3.14.11.jar:reactive-streams-1.0.3.jar:mysql-connector-java-8.0.25.jar:jaxb-api-2.4.0-b180830.0359.jar:. org.jooq.codegen.GenerationTool library.xml
